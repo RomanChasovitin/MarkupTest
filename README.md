@@ -1,6 +1,6 @@
 # Тестово задание по верстке
 
-[https://www.figma.com/file/DQnGtTd0KZcaqzMrHzhTTe/Testing-Frontend-developer?node-id=0%3A1](Макет Figma)
+[https://www.figma.com/file/DQnGtTd0KZcaqzMrHzhTTe/Testing-Frontend-developer?node-id=0%3A1](Макет)
 
 ## Что нужно сделать
 * Нужно сверстать карточки блога по сетке. 3 элемента в ряд.
