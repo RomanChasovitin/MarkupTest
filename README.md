@@ -1,6 +1,6 @@
 # Тестово задание по верстке
 
-[https://www.figma.com/file/DQnGtTd0KZcaqzMrHzhTTe/Testing-Frontend-developer?node-id=0%3A1](Макет)
+[Макет](https://www.figma.com/file/DQnGtTd0KZcaqzMrHzhTTe/Testing-Frontend-developer?node-id=0%3A1)
 
 ## Что нужно сделать
 * Нужно сверстать карточки блога по сетке. 3 элемента в ряд.
@@ -9,7 +9,7 @@
 * Верстка должна быть максимально приближенна к макету
 
 ## Полезные ссылки
-* Картинки можно брать с любого фотостока, например с [https://unsplash.com](Unsplash)
+* Картинки можно брать с любого фотостока, например с [Unsplash](https://unsplash.com)
 * Для заголовков используется шрифт `Poppins`, а для основного текста - `Inter`. Оба их можно найти в Google fonts
 * В качестве цвета текста выступает цвет `#000`, а в качестве дополнительных - `#96969c` и `#f4f4f4`
-* Для аватаров можно использовать сервис [https://pravatar.cc/](Pravatar)
+* Для аватаров можно использовать сервис [Pravatar](https://pravatar.cc/)
